@@ -8,6 +8,8 @@ public class Main {
 	/**
 	 * @param args
 	 */
+	 //hggh
+	 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 // Initialisation de la saisie en mode console 
